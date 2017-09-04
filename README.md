@@ -33,3 +33,6 @@ https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hun
 
 ### bug bounty write-ups
 https://forum.bugcrowd.com/t/researcher-resources-bounty-bug-write-ups/1137 
+
+### tutor
+https://forum.bugcrowd.com/t/researcher-resources-tutorials/370

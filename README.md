@@ -31,5 +31,5 @@ The goal of the project is to incorporate more up to date resources for bug hunt
 ## bugcrowd forum
 https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102 
 
-### bug bounty write 
+### bug bounty write-ups
 https://forum.bugcrowd.com/t/researcher-resources-bounty-bug-write-ups/1137 

@@ -28,5 +28,5 @@ The goal of the project is to incorporate more up to date resources for bug hunt
 
 [![ScreenShot](https://dl.dropboxusercontent.com/u/37776965/2015-10-08_14-57-26.png)](https://drive.google.com/file/d/0B15XPa08CyxhQ1J2T2tOUUJuSFk/view?usp=sharing)
 
-##bugcrowd forum
+## bugcrowd forum
 https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102 
